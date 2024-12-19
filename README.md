@@ -13,6 +13,12 @@
 
 - 📫 How to reach me **Email me at keremkarayagiz0@gmail.com or connect via LinkedIn: https://www.linkedin.com/in/kerem-karaya%C4%9F%C4%B1z-95515b249/.**
 
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76115qg1jufmt7x0zx42e7fuo6hj56e0f1kzcp7spo9f&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF Açıklaması" />
+</div>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kerem karayağız" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerem karayağız" height="30" width="40" /></a>
